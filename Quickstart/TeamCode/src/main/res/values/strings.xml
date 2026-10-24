@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JHCP_BIOBUZZ</string>
+
+    <!-- Hardware Names -->
+    <string name="hw_left_front">left_front</string>
+    <string name="hw_left_back">left_back</string>
+    <string name="hw_right_front">right_front</string>
+    <string name="hw_right_back">right_back</string>
+    <string name="hw_intake_motor">intakeMotor</string>
+    <string name="hw_imu">imu</string>
+
+    <!-- Telemetry Labels -->
+    <string name="telemetry_movement">Movement-</string>
+    <string name="telemetry_strafe">Strafe</string>
+    <string name="telemetry_forward">Forward</string>
+    <string name="telemetry_rotate">Rotate</string>
+    <string name="telemetry_intake_power">Intake Power</string>
+    <string name="telemetry_robot_position">Robot Position-</string>
+    <string name="telemetry_raw_ticks_x">Raw Ticks X (Strafe)</string>
+    <string name="telemetry_raw_ticks_y1">Raw Ticks Y1 (Forward)</string>
+    <string name="telemetry_raw_ticks_y2">Raw Ticks Y2 (Forward)</string>
+    <string name="telemetry_dist_x">X-axis Distance (in)</string>
+    <string name="telemetry_dist_y1">Y1-axis Distance (in)</string>
+    <string name="telemetry_dist_y2">Y2-axis Distance (in)</string>
+    <string name="telemetry_imu">IMU</string>
+    <string name="telemetry_ok">OK</string>
+    <string name="telemetry_heading">Heading</string>
+    <string name="telemetry_pitch">Pitch</string>
+    <string name="telemetry_roll">Roll</string>
+    <string name="telemetry_status">Status</string>
+    <string name="telemetry_initialized">Initialized. Ready to start.</string>
+    <string name="telemetry_ready">Ready!</string>
+    <string name="telemetry_x">x</string>
+    <string name="telemetry_y">y</string>
+    <string name="telemetry_is_busy">isBusy</string>
+
+    <!-- Formatting -->
+    <string name="format_dist">%.2f</string>
+</resources>
