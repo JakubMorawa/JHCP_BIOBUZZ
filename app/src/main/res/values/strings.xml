@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">JHCP_BIOBUZZ</string>
+    <string name="opmode_name">teleopBIOBUZZ</string>
+    <string name="opmode_group">Test</string>
+
+    <!-- Telemetry Labels -->
+    <string name="telemetry_movement">Movement-</string>
+    <string name="telemetry_strafe">Strafe</string>
+    <string name="telemetry_forward">Forward</string>
+    <string name="telemetry_rotate">Rotate</string>
+    <string name="telemetry_intake_power">Intake Power</string>
+    <string name="telemetry_robot_position">Robot Position-</string>
+    <string name="telemetry_raw_ticks_x">Raw Ticks X (Strafe)</string>
+    <string name="telemetry_raw_ticks_y1">Raw Ticks Y1 (Forward)</string>
+    <string name="telemetry_raw_ticks_y2">Raw Ticks Y2 (Forward)</string>
+    <string name="telemetry_distance_x">X-axis Distance (in)</string>
+    <string name="telemetry_distance_y1">Y1-axis Distance (in)</string>
+    <string name="telemetry_distance_y2">Y2-axis Distance (in)</string>
+    <string name="telemetry_imu">IMU</string>
+    <string name="telemetry_imu_ok">OK</string>
+    <string name="telemetry_heading">Heading</string>
+    <string name="telemetry_pitch">Pitch</string>
+    <string name="telemetry_roll">Roll</string>
+    <string name="telemetry_status">Status</string>
+    <string name="status_ready">Initialized. Ready to start.</string>
+</resources>
